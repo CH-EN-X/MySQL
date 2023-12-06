@@ -1,2 +1,2 @@
 # MySQL
-MySQL基础
+MySQL 基础
